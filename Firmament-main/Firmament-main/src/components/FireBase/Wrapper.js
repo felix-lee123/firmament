@@ -5,7 +5,7 @@ import { getDatabase } from "firebase/database";
 
 // Configure Firebase.
 const config = {
-  apiKey: "AIzaSyD8EcwY-enP40uMOK41581WZoflCPzU1sI",
+  apiKey: ,
   authDomain: "firmament-a19df.firebaseapp.com",
   databaseURL: "https://firmament-a19df-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "firmament-a19df",
