@@ -1,0 +1,22 @@
+{
+  "link.title.Docs": {
+    "message": "文檔",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.item.label.Apps": {
+    "message": "應用",
+    "description": "The label of footer link with label=Apps linking to /docs/Games/Gomoku"
+  },
+  "link.item.label.Blog": {
+    "message": "博客",
+    "description": "The label of footer link with label=Blog linking to /blog"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/amentfirm/amentfirm.github.io"
+  },
+  "copyright": {
+    "message": "版權所有 © 2023 蒼穹。使用 Docusaurus 和 Firebase 構建。",
+    "description": "The footer copyright"
+  }
+}

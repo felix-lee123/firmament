@@ -1,0 +1,62 @@
+{
+  "version.label": {
+    "message": "下一個",
+    "description": "The label for version current"
+  },
+  "sidebar.appSidebar.category.Firebase": {
+    "message": "火力地堡",
+    "description": "The label for category Firebase in sidebar appSidebar"
+  },
+  "sidebar.appSidebar.category.NewsViz": {
+    "message": "新聞可視化",
+    "description": "The label for category NewsViz in sidebar appSidebar"
+  },
+  "sidebar.appSidebar.category.Games": {
+    "message": "遊戲",
+    "description": "The label for category Games in sidebar appSidebar"
+  },
+  "sidebar.appSidebar.doc.Gomoku": {
+    "message": "五子棋",
+    "description": "The label for the doc item Gomoku in sidebar appSidebar, linking to the doc Games/Gomoku"
+  },
+  "sidebar.appSidebar.doc.Display": {
+    "message": "展示",
+    "description": "The label for the doc item Display in sidebar appSidebar, linking to the doc Firebase/Display"
+  },
+  "sidebar.appSidebar.doc.Submit": {
+    "message": "提交",
+    "description": "The label for the doc item Submit in sidebar appSidebar, linking to the doc Firebase/Submit"
+  },
+  "sidebar.appSidebar.doc.DisplayFirestore": {
+    "message": "顯示 Firestore",
+    "description": "The label for the doc item DisplayFirestore in sidebar appSidebar, linking to the doc Firebase/DisplayFirestore"
+  },
+  "sidebar.appSidebar.doc.SubmitFirestore": {
+    "message": "提交 Firestore",
+    "description": "The label for the doc item SubmitFirestore in sidebar appSidebar, linking to the doc Firebase/SubmitFirestore"
+  },
+  "sidebar.appSidebar.doc.Scrape": {
+    "message": "網頁抓取",
+    "description": "The label for the doc item Scrape in sidebar appSidebar, linking to the doc NewsViz/Scrape"
+  },
+  "sidebar.appSidebar.doc.SearchNews": {
+    "message": "搜索新聞",
+    "description": "The label for the doc item SearchNews in sidebar appSidebar, linking to the doc NewsViz/SearchNews"
+  },
+  "sidebar.appSidebar.doc.SentimentNews": {
+    "message": "情感新聞",
+    "description": "The label for the doc item SentimentNews in sidebar appSidebar, linking to the doc NewsViz/SentimentNews"
+  },
+  "sidebar.appSidebar.doc.SphereNews": {
+    "message": "球體新聞",
+    "description": "The label for the doc item SphereNews in sidebar appSidebar, linking to the doc NewsViz/SphereNews"
+  },
+  "sidebar.appSidebar.doc.TicTacToe": {
+    "message": "井字遊戲",
+    "description": "The label for the doc item TicTacToe in sidebar appSidebar, linking to the doc Games/TicTacToe"
+  },
+  "sidebar.appSidebar.doc.GomokuNetPlay": {
+    "message": "五子網游",
+    "description": "The label for the doc item GomokuNetPlay in sidebar appSidebar, linking to the doc Games/GomokuNetPlay"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": {
+    "message": "Firmament",
+    "description": "The title in the navbar"
+  },
+  "item.label.Web Apps": {
+    "message": "Web Apps",
+    "description": "Navbar item with label Web Apps"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  },
+  "item.label.Firebase": {
+    "message": "Firebase",
+    "description": "Navbar item with label Firebase"
+  },
+  "item.label.NewsViz": {
+    "message": "NewsViz",
+    "description": "Navbar item with label NewsViz"
+  },
+  "item.label.Games": {
+    "message": "Games",
+    "description": "Navbar item with label Games"
+  }
+}

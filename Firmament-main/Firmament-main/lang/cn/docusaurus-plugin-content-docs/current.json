@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.appSidebar.category.Firebase": {
+    "message": "Firebase",
+    "description": "The label for category Firebase in sidebar appSidebar"
+  },
+  "sidebar.appSidebar.category.NewsViz": {
+    "message": "NewsViz",
+    "description": "The label for category NewsViz in sidebar appSidebar"
+  },
+  "sidebar.appSidebar.category.Games": {
+    "message": "Games",
+    "description": "The label for category Games in sidebar appSidebar"
+  }
+}
